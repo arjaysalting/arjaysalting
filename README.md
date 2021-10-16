@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arjaysalting
 - 👀 I’m interested in iOS, web, data science.
-- 🌱 I’m currently learning data science.
+- 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
